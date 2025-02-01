@@ -1,0 +1,190 @@
+--BLOX FRUIT
+-- ⚔️ Redz Hub - Blox Fruits OP Script 🏴‍☠️
+-- ✅ Works on PC
+
+local Settings = {
+    JoinTeam = "Pirates"; -- Choose: "Pirates" or "Marines" 🏴‍☠️⚓
+    Translator = true; -- Enable/Disable Translator 🌍
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings) 
+
+-- 🚀 Luarmor Script Loader
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))() 
+
+-- 🎭 HoHo Hub (✅ Works on PC & Mobile Keyless)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+
+--OP Script
+- 🦸‍♂️ Zeerox Hub
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua'))()
+
+-- 🐯 Tbao Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHub3008"))()
+
+-- 🌌 Sky Hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt"))()
+
+-- 🥜 Nut Hub
+loadstring(game:HttpGet("https://pastefy.app/9rP6GZK8/raw", true))()
+
+-- 🌪 Connect Hub for A Dusty Trip
+loadstring(game:HttpGet("https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip", true))()
+
+-- 🚜 Auto Farm for A Dusty Trip
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/dusty/main/trip"))()
+
+-- 🎮 Auto Farm (Click Y To Show GUI) for A Dusty Trip
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThacG/DustyTripThac/main/dustytripthac"))()
+
+-- 💪 Nut Hub for Ability Wars
+loadstring(game:HttpGet("https://pastefy.app/Kzc4felK/raw", true))()
+
+-- ⚔️ NS Hub for Allblox Battles
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FrostLua/KeyRBLXCrack/main/Crack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/ABB/main/Solara/Mobile"))()
+
+-- 🐾 Ywxo Hub for Animal Race Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/AnimalRace2222.lua", true))()
+
+-- 💥 DK Hub for Anime Heros Simulator
+loadstring(game:HttpGet('https://raw.githubusercontent.com/cracklua/cracks/m/dkhub'))()
+
+-- 🗝 NS Hub Keyless Crack for Anime Heros Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FrostLua/KeyRBLXCrack/main/Crack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/AH2/main/PC"))()
+-- 👊 DK Hub for Anime Punching Simulator 2
+loadstring(game:HttpGet('https://raw.githubusercontent.com/cracklua/cracks/m/dkhub'))()
+
+-- 🚗 QP Hub for Arsenal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/QPScript/Script/main/Arsenal.txt"))()
+
+-- ⚡ Thunder Client Light v2 for Arsenal
+loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/b95e8fecdf824e41f4a030044b055add.lua'))()
+
+-- 🌀 Stormware Lite for Arsenal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/QP-Community/Roblox-Exploit/main/Stormware_Crack"))()
+
+-- 🏹 Tanqr Hub for Arsenal
+loadstring(game:HttpGet("https://pastebin.com/raw/mXQLj82U"))()
+
+-- 🎯 Silent Aim GUI for Arsenal
+loadstring(game:HttpGet("https://pastebin.com/raw/iFDUTWfp"))()
+
+-- 🔥 Quotas Hub for Arsenal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Insertl/QuotasHub/main/BETAv.0.4"))()
+
+-- 🔫 Open AimBot Hub for Arsenal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ttwizz/Open-Aimbot/master/source.lua", true))()
+
+-- 🏰 Pork Hub for Attack on Titan: Freedom War
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PorkDevMode/AotFwPublic/main/Script.luau'))()
+
+-- 🎲 Auto Roll No GUI for Admin RNG
+while true do local args = { [1] = true, [2] = true } game:GetService("ReplicatedStorage").Events.Spin:InvokeServer(unpack(args)) task.wait(0) end
+
+-- 🎮 Lyzer Hub for Anime Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/keyrblxR",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kazeruy/LyzerHub/main/ScriptMain"))() 
+
+
+-- 🍤 Shrimp Game Script (Do NOT use Infinity Guards, got patched)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imrane43/Shrimp-game-Script/refs/heads/main/Shrimp%20game", true))()
+
+-- 🟥 Green Light Red Light Script (FREE Frontman and Guards)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imrane43/Green-light-red-light-script/refs/heads/main/Squid%20game%20script", true))()
+
+-- 🚔 Prison Life Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imrane43/Prisonlife/refs/heads/main/Prisonlife", true))()
+
+-- 🐟 Fisch Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imrane43/fisch-Script/refs/heads/main/Fisch%20Script", true))()
+
+-- ✨ Made by Imrane ✨
+
+-- 🔑 key= Hamidosthebest
+
+🚗 **Baddie**  
+```lua
+loadstring(game:HttpGet(('https://pastefy.app/IB5tM3sE/raw'),true))()
+loadstring(game:HttpGet("https://pastefy.app/g5lXK0Bk/raw",true))()
+```
+
+🏀 **Basket Ball Legends**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/obfhub/free/main/basketmball"))()
+```
+
+🤖 **BE NPC OR DIE!**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BeNpcOrDie"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iciidev/Icii-Cheats/main/iciicheats.lua", true))()
+```
+
+⚔ **Bedwars**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cocotv666/Aurora/main/Aurora_Loader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto1/bw/main/test"))()
+```
+
+🐝 **Bee Swarm Simulator**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/HISTORIAHUB/main/BSS%20FREE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FrostLua/KeyRBLXCrack/main/Crack.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BeeSwarmSim/main/BeeSwarmSim"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/29"))()
+```
+
+⚡ **Blade Ball**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/InfiniX/main/Games/Blade%20Ball/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nqxlOfc/SlzAX17vGCub7iRKVmJid61Bg/main/KwKVzV5SgcFBd9fnpLr4lKCg6.lua"))()
+loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\102\114\101\101\110\111\116\101\46\98\105\122\47\114\97\119\47\110\102\122\48\122\113\100\121\117\110\34\41\41\40\41\10")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/manimanni/Schema/main/posse.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/autoparry.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EminenceXLua/Blade-your-Balls/main/BladeBallLoader.lua"))()
+loadstring(game:HttpGet("https://rentry.co/7wrzwray/raw",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/songolasangkatangw/memek/main/adakontolsamamemek.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHubX/main/Loader.lua", true))()
+```
+
+🔫 **Counter Blox**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fuckmath/shit/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/counter/main/blox"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Stratxgy/StratWare/main/StratWare.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zdayee/firebrandw/main/universal"))()
+```
+
+⚽ **Football Fusion 2**  
+```lua
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/7b4f22e1726966f40c91521aaeb11953.lua"))()
+```
+
+👮 **Jailbreak**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zyn789/Aoi-Script/main/Jailbreak"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/benomat/scripts/m/paste/skihub.lua'))()
+loadstring(game:HttpGet('https://pastebin.com/raw/ghGgrmWR'))()
+loadstring(game:HttpGet("https://pastebin.com/raw/Gd1H8cxf",true))()
+```
+
+👿 **Demon Fall**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FrostLua/Krakles/main/DrownedHub/Demonfall.lua"))()
+```
+
+🚪 **Doors**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/M4mpGErb",true))()
+```
+
+🚕 **Driving Empire**  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/drivingempire", true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/DrivingEmpireEvents/main/README.md'),true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/benomat/scripts/m/myown/drivingempire.lua'))()
+loadstring(game:HttpGet("https://pastefy.app/B3bzy9h6/raw",true))()
+```
+
+who boost get 100+ script
